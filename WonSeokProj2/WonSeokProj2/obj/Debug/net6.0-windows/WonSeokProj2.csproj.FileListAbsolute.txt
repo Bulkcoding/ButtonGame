@@ -1,0 +1,16 @@
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\bin\Debug\net6.0-windows\WonSeokProj2.exe
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\bin\Debug\net6.0-windows\WonSeokProj2.deps.json
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\bin\Debug\net6.0-windows\WonSeokProj2.runtimeconfig.json
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\bin\Debug\net6.0-windows\WonSeokProj2.dll
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\bin\Debug\net6.0-windows\WonSeokProj2.pdb
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\obj\Debug\net6.0-windows\WonSeokProj2.Form1.resources
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\obj\Debug\net6.0-windows\WonSeokProj2.csproj.GenerateResource.cache
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\obj\Debug\net6.0-windows\WonSeokProj2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\obj\Debug\net6.0-windows\WonSeokProj2.AssemblyInfoInputs.cache
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\obj\Debug\net6.0-windows\WonSeokProj2.AssemblyInfo.cs
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\obj\Debug\net6.0-windows\WonSeokProj2.csproj.CoreCompileInputs.cache
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\obj\Debug\net6.0-windows\WonSeokProj2.dll
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\obj\Debug\net6.0-windows\refint\WonSeokProj2.dll
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\obj\Debug\net6.0-windows\WonSeokProj2.pdb
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\obj\Debug\net6.0-windows\WonSeokProj2.genruntimeconfig.cache
+C:\Users\82105\source\repos\WonSeokProj2\WonSeokProj2\obj\Debug\net6.0-windows\ref\WonSeokProj2.dll
